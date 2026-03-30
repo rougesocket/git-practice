@@ -1,1 +1,2 @@
 git practice workflow - Amending last commit
+some additional changes
