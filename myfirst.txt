@@ -1,4 +1,5 @@
 main branch file1 content some addition
+updateing for conflict
 Merge conflict
 master ke changes
 my updated branch changes
